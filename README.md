@@ -16,6 +16,7 @@ In current version we have `backups` folder for create backups with this templat
 - Run the following **composer** command: `composer install`
 - Import last backup
 - Change base connection settings
+- CLear **all cache** and **cache for js and css**
 - Run the following **php** command: `php -S localhost:8888`
 
 #### SHTIKOV's project
