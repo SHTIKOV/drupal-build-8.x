@@ -1,0 +1,12 @@
+name: Custom Theme
+type: theme
+description: 'This is a clean custom theme.'
+package: Core
+# version: VERSION
+core: 8.x
+base theme: false
+
+# Information added by Drupal.org packaging script on 2020-02-01
+version: '8.8.2'
+project: 'drupal'
+datestamp: 1580598903
